@@ -7,13 +7,13 @@
 
 <p align="center">
  ⌨️&nbsp;&nbsp;Currently developing <a href="https://www.lyyti.com">
- <b>@Lyyti Oy </b><img src="./images/Lyyti-logo.svg" height="20px" /></a>
+ <b>@Lyyti Oy </b><img src="./images/Lyyti-logo.svg" alt="Lyyti logo" height="20px" /></a>
 </p>
 
 <p align="center">
  💻&nbsp;&nbsp;Stydying Software Engineering
  <a href="https://www.utu.fi/fi/opiskelijaksi/tieto-ja-viestintatekniikka-tekniikan-kandidaatti-ja-diplomi-insinoori-3-v-2-v">
- <b>@University of Turku </b><img src="./images/UniversityOfTurku-logo.png" height="20px" /></a>
+ <b>@University of Turku </b><img src="./images/UniversityOfTurku-logo.png" alt="University of Turku logo" height="20px" /></a>
  <br/>
   -Finished Bachelor's degree in June 2020
  <br/>
@@ -29,11 +29,11 @@
 </p>
 
 ## My top skills
-![Tech-skills](./images/Tech-skills.png)
+[![Tech-skills](./images/Tech-skills.png)](https://www.silenius.dev)
 
 ## Throw me a message at
 <p align="center">
- <a href="https:/www.linkedin.com/in/petrosilenius">LinkedIn</a>&nbsp;&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/petrosilenius"><img src="./images/LinkedIn-logo.png" alt="LinkedIn logo" width="20px" />LinkedIn</a>&nbsp;&nbsp;&nbsp;
  <a href="mailto:petro.silenius@gmail.com">✉️ petro.silenius@gmail.com</a>&nbsp;&nbsp;&nbsp;
- <a href="https:/www.silenius.dev">🌐 silenius.dev</a>
+ <a href="https://www.silenius.dev">🌐 silenius.dev</a>
 </p>
