@@ -16,6 +16,6 @@ My freetime :bike:
  -Scouting <a href="https://www.halsi.fi"><b>@Halikon Siniset</b> <img src="./images/HalikonSiniset-logo.png" alt="Halikon Siniset logo" width="20px"></a>
 
 ## My top skills
-
+![Tech-skills](./images/Tech-skills.png)
 
 ## Throw me a message at
