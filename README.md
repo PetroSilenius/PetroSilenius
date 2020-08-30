@@ -6,21 +6,25 @@
 </p>
 
 <p align="center">
- ⌨️ Currently developing <a href="https://www.lyyti.com">
+ ⌨️&nbsp;&nbsp;Currently developing <a href="https://www.lyyti.com">
  <b>@Lyyti Oy </b><img src="./images/Lyyti-logo.svg" height="20px" /></a>
 </p>
 
 <p align="center">
- 💻 Stydying Software Engineering
+ 💻&nbsp;&nbsp;Stydying Software Engineering
  <a href="https://www.utu.fi/fi/opiskelijaksi/tieto-ja-viestintatekniikka-tekniikan-kandidaatti-ja-diplomi-insinoori-3-v-2-v">
- <b>@University of Turku </b><img src="./images/UniversityOfTurku-logo.png" height="20px" /></a>  
-  -Finished Bachelor's degree in June 2020  
+ <b>@University of Turku </b><img src="./images/UniversityOfTurku-logo.png" height="20px" /></a>
+ <br/>
+  -Finished Bachelor's degree in June 2020
+ <br/>
   -Aiming to graduate Master's in Spring 2021
 </p>
 
 <p align="center">
- My freetime 🚲  
-  -Student activities <a href="https://www.digit.fi"><b>@Digit </b><img src="./images/Digit-logo.png" alt="Digit logo" height="20px"></a>  
+ My freetime 🚲
+ <br/>
+  -Student activities <a href="https://www.digit.fi"><b>@Digit </b><img src="./images/Digit-logo.png" alt="Digit logo" height="20px"></a>
+ <br />
   -Scouting <a href="https://www.halsi.fi"><b>@Halikon Siniset </b><img src="./images/HalikonSiniset-logo.png" alt="Halikon Siniset logo" width="20px" /></a>
 </p>
 
@@ -28,8 +32,8 @@
 ![Tech-skills](./images/Tech-skills.png)
 
 ## Throw me a message at
-<span align="center">
- <a href="https:/www.linkedin.com/in/petrosilenius">LinkedIn</a> 
- <a href="mailto:petro.silenius@gmail.com">✉️ petro.silenius@gmail.com</a> 
+<p align="center">
+ <a href="https:/www.linkedin.com/in/petrosilenius">LinkedIn</a>&nbsp;&nbsp;&nbsp;
+ <a href="mailto:petro.silenius@gmail.com">✉️ petro.silenius@gmail.com</a>&nbsp;&nbsp;&nbsp;
  <a href="https:/www.silenius.dev">🌐 silenius.dev</a>
-</span>
+</p>
