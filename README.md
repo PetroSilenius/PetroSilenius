@@ -9,7 +9,7 @@
 <p align="center">
  ⌨️&nbsp;&nbsp;Driving frontend development forward<br/>
  <a href="https://www.lyyti.com"><b>@Lyyti Oy </b>
- <img src="https://raw.githubusercontent.com/PetroSilenius/PetroSilenius/d7248f9403eb4442696b36941394a3cfb19e1d5a/images/Lyyti-logo.jpeg"
+ <img src="https://github.com/PetroSilenius/PetroSilenius/blob/master/images/Lyyti-logo.jpeg?raw=true"
       alt="Lyyti logo" height="20px" /></a>
 </p>
 
