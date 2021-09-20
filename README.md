@@ -1,4 +1,4 @@
-[![Petro Silenius - Frontend Developer](https://raw.githubusercontent.com/PetroSilenius/PetroSilenius/master/images/README-header.png)](https://www.silenius.dev)
+[![Petro Silenius - Frontend Developer](https://github.com/PetroSilenius/PetroSilenius/blob/master/images/README-header.jpeg?raw=true)](https://www.silenius.dev)
 
 # Hello everybody!👋
 <h3>
