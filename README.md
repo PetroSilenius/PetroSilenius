@@ -5,7 +5,7 @@
  <b>I'm an enthusiastic developer from Turku, Finland.</b>
 </h3>
 <p>
- I'm currently working as a Lead developer at Ruokaboksi which is a mealkit subscription platform delivering easy, healthy and delicous meals weekly to your home door 📦
+ I'm currently working as a Lead developer at <a href="https://ruokaboksi.fi">Ruokaboksi</a> which is a mealkit subscription platform delivering easy, healthy and delicous meals weekly to your home door 📦
 
  I graduated as a Master of Technology from University of Turku when I was 22 years old and I'm grateful for the lessons I learned. Especially student activity introduced me to great people and taught me a lot. 🎓<img src="https://github.com/PetroSilenius/PetroSilenius/blob/master/images/Digit-logo.png?raw=true" alt="Digit logo" height="20px" /> Some of my favourite memories there are from organising a biweekly code club or organising events for hundreds of participants
 
